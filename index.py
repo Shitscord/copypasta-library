@@ -1,1 +1,1 @@
-cplibrary = ['buzzwords', 'imnotgay', 'ipadgirl', 'navyfurs', 'navykindergarten', 'navyknights', 'navyseals', 'navyswag', 'navyweeb', 'nicejoke', 'theintent', 'whitehouse']
+cplibrary = ['buzzwords', 'guidetoemojis', 'imnotgay', 'ipadgirl', 'navyfurs', 'navykindergarten', 'navyknights', 'navyseals', 'navyswag', 'navyweeb', 'nicejoke', 'theintent', 'whitehouse']
