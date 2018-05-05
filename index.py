@@ -1,1 +1,1 @@
-cplibrary = ['buzzwords', 'guidetoemojis', 'imnotgay', 'ipadgirl', 'navyfurs', 'navykindergarten', 'navyknights', 'navyseals', 'navyswag', 'navyweeb', 'nicejoke', 'theintent', 'whitehouse']
+cplibrary = ['airtravel', 'buzzwords', 'furrymurder', 'gruisgod', 'guidetoemojis', 'imnotgay', 'infinitywar', 'ipadgirl', 'minecraftpoem', 'navyemojis', 'navyfurs', 'navykindergarten', 'navyknights', 'navyseals', 'navyswag', 'navyweeb', 'nicejoke', 'nofap', 'pawice', 'pedophilia', 'theintent', 'trainenthusiasts', 'whitehouse']
